@@ -1,0 +1,45 @@
+sample,group_type,group,records,median,mean
+all_records,overall,All,8080,150000.0,158598.94022277227
+all_records,experience_level,Entry-level,327,91000.0,104849.0122324159
+all_records,experience_level,Executive,244,194500.0,195731.12704918033
+all_records,experience_level,Mid-level,1371,125000.0,130431.58935083881
+all_records,experience_level,Senior,6138,159095.0,166277.89279895733
+all_records,work_setting,Hybrid,38,125000.0,142176.31578947368
+all_records,work_setting,In-person,5169,150000.0,160910.60591990713
+all_records,work_setting,Remote,2873,150000.0,154657.08840932822
+all_records,job_category,BI and Visualization,288,135000.0,139048.02777777778
+all_records,job_category,Cloud and Database,5,160000.0,155000.0
+all_records,job_category,Data Analysis,1238,110000.0,114009.71001615509
+all_records,job_category,Data Architecture and Modeling,237,153000.0,160575.81856540084
+all_records,job_category,Data Engineering,1969,146000.0,154427.65109192484
+all_records,job_category,Data Management and Strategy,55,90000.0,103968.05454545455
+all_records,job_category,Data Quality and Operations,50,93625.0,104349.8
+all_records,job_category,Data Science and Research,2625,165000.0,173473.31123809525
+all_records,job_category,Leadership and Management,439,140000.0,148675.74943052392
+all_records,job_category,Machine Learning and AI,1174,185000.0,192349.43867120953
+all_records,work_year,2020,28,119000.0,160555.35714285713
+all_records,work_year,2021,87,140000.0,147206.0344827586
+all_records,work_year,2022,1323,142127.0,148294.3522297808
+all_records,work_year,2023,6642,151600.0,160792.46221017765
+exact_repeats_removed,overall,All,4249,150000.0,158553.92492351143
+exact_repeats_removed,experience_level,Entry-level,241,90000.0,103217.42323651453
+exact_repeats_removed,experience_level,Executive,188,193250.0,195262.9095744681
+exact_repeats_removed,experience_level,Mid-level,848,127287.5,133118.33608490566
+exact_repeats_removed,experience_level,Senior,2972,160000.0,167976.59892328398
+exact_repeats_removed,work_setting,Hybrid,37,130000.0,144667.56756756757
+exact_repeats_removed,work_setting,In-person,2488,150550.0,160835.1921221865
+exact_repeats_removed,work_setting,Remote,1724,150000.0,155559.72679814385
+exact_repeats_removed,job_category,BI and Visualization,164,129650.0,133780.98780487804
+exact_repeats_removed,job_category,Cloud and Database,5,160000.0,155000.0
+exact_repeats_removed,job_category,Data Analysis,630,109750.0,114519.98253968253
+exact_repeats_removed,job_category,Data Architecture and Modeling,144,155000.0,163343.54861111112
+exact_repeats_removed,job_category,Data Engineering,914,150000.0,156670.0601750547
+exact_repeats_removed,job_category,Data Management and Strategy,45,93593.0,108929.84444444445
+exact_repeats_removed,job_category,Data Quality and Operations,40,93625.0,109387.25
+exact_repeats_removed,job_category,Data Science and Research,1339,162170.0,170951.3861090366
+exact_repeats_removed,job_category,Leadership and Management,292,144850.0,153791.48630136985
+exact_repeats_removed,job_category,Machine Learning and AI,676,182200.0,190867.8949704142
+exact_repeats_removed,work_year,2020,28,119000.0,160555.35714285713
+exact_repeats_removed,work_year,2021,86,137500.0,146592.1511627907
+exact_repeats_removed,work_year,2022,827,144100.0,149275.19951632406
+exact_repeats_removed,work_year,2023,3308,153400.0,161167.64268440145

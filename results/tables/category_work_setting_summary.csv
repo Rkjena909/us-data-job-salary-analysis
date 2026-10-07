@@ -1,0 +1,26 @@
+job_category,work_setting,records,median,mean
+BI and Visualization,Hybrid,1,76000.0,76000.0
+BI and Visualization,In-person,210,140000.0,142430.44761904763
+BI and Visualization,Remote,77,127000.0,130642.05194805194
+Cloud and Database,Remote,5,160000.0,155000.0
+Data Analysis,Hybrid,9,56500.0,71966.66666666667
+Data Analysis,In-person,671,110000.0,116310.91058122205
+Data Analysis,Remote,558,109280.0,111920.60931899642
+Data Architecture and Modeling,Hybrid,1,250000.0,250000.0
+Data Architecture and Modeling,In-person,112,147050.0,145538.8392857143
+Data Architecture and Modeling,Remote,124,170000.0,173436.4435483871
+Data Engineering,In-person,1306,145000.0,153530.73813169985
+Data Engineering,Remote,663,152000.0,156194.42081447964
+Data Management and Strategy,In-person,32,101796.5,103818.53125
+Data Management and Strategy,Remote,23,87500.0,104176.08695652174
+Data Quality and Operations,In-person,32,95000.0,113983.75
+Data Quality and Operations,Remote,18,65550.0,87222.77777777778
+Data Science and Research,Hybrid,14,137000.0,150714.2857142857
+Data Science and Research,In-person,1680,165000.0,176209.3011904762
+Data Science and Research,Remote,931,164000.0,168878.42749731473
+Leadership and Management,Hybrid,1,130000.0,130000.0
+Leadership and Management,In-person,293,140000.0,144048.6962457338
+Leadership and Management,Remote,145,145000.0,158154.38620689654
+Machine Learning and AI,Hybrid,12,163000.0,182416.66666666666
+Machine Learning and AI,In-person,833,188000.0,194205.09723889557
+Machine Learning and AI,Remote,329,184000.0,188013.358662614

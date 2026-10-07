@@ -1,0 +1,12 @@
+experience_level,work_setting,records_2022,records_2023,median_2022,median_2023,change_percent,small_sample
+Entry-level,Hybrid,7.0,4.0,76000.0,105000.0,38.1578947368421,True
+Entry-level,In-person,29.0,164.0,130000.0,102000.0,-21.53846153846154,True
+Entry-level,Remote,22.0,73.0,93000.0,75000.0,-19.354838709677423,True
+Executive,In-person,8.0,134.0,191080.0,180000.0,-5.798618379736231,True
+Executive,Remote,27.0,70.0,200000.0,210914.0,5.457000000000001,True
+Mid-level,Hybrid,4.0,3.0,149000.0,135000.0,-9.395973154362414,True
+Mid-level,In-person,105.0,815.0,120000.0,128000.0,6.666666666666665,False
+Mid-level,Remote,93.0,302.0,122500.0,115000.0,-6.122448979591832,False
+Senior,Hybrid,3.0,,165000.0,,,True
+Senior,In-person,456.0,3438.0,144000.0,160000.0,11.111111111111116,False
+Senior,Remote,567.0,1632.0,150000.0,160000.0,6.666666666666665,False
